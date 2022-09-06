@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Criando formulários</title>
+    </head>
+
+    <body>
+        <form action="envio.php" method="GET">
+            <label>Nome:</label>
+            <input type="text" name="nome">
+            <br><br>
+            <input type="checkbox" name="temcarro"> Eu tenho um carro
+            <br><br>
+            Data Nascimento <input type="date" name="Aniversario">
+            <br><br>
+            <input type="radio" name="sexo" value="Masculino">Masculino
+            <input type="radio" name="sexo" value="Feminino">Feminino
+            <input type="radio" name="sexo" value="Outro">Outro
+            <br><br>
+            <textarea rows="10" cols="50"></textarea>
+            <br><br>
+            <label>Senha:</label>
+            <input type="password" name="senha">
+            <br><br><br>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>
