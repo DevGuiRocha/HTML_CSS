@@ -1,5 +1,4 @@
 # HTML & CSS
-Aprendizado e Projetos utilizando apenas HTML e CSS
 
 Apenas um repositório onde estudo um pouco sobre HTML e CSS. 
 
