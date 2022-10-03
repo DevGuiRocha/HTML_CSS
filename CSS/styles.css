@@ -27,3 +27,17 @@ p {
 .texto {
     text-align: center;
 }
+
+/* cores */
+
+.nome {
+    color: purple;
+}
+
+.hexa {
+    color: #24c912;
+}
+
+.rgba {
+    color: rgba(98, 93, 153, 1);
+}
