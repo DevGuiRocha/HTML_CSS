@@ -54,3 +54,42 @@ p {
     background-color: black;
     color: white;
 }
+
+/* Fontes */
+
+.family {
+    color: brown;
+    font-size: 25px;
+}
+
+.family.serif {
+    color: green;
+}
+
+.serif {
+    font-family: "times new roman";
+}
+
+.sans-serif {
+    font-family: arial;
+}
+
+.monospace {
+    font-family: "Courier New";
+}
+
+.italic {
+    font-style: italic;
+}
+
+.obliquo {
+    font-style: oblique;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.variant {
+    font-variant: small-caps;
+}
