@@ -41,3 +41,16 @@ p {
 .rgba {
     color: rgba(98, 93, 153, 1);
 }
+
+
+/* Backgrounds */
+
+.div-background {
+    background-image: url('img/download.png');
+    height: 300px;
+}
+
+.h2_background{
+    background-color: black;
+    color: white;
+}
